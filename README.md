@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hisham-FT
 - 👀 I’m interested in data science and economics.
-- 🌱 I’m currently learning LLM and Knowledge Graphs as well as Law of thermodynamics.
+- 🌱 I’m currently learning LLM and Knowledge Graphs as well as the Laws of Thermodynamics.
 - 💞️ I’m looking to collaborate on all data science topics.
 - 📫 How to reach me: You can email me on hicham.alioui@swiftturing.com
 - 😄 Pronouns: He
